@@ -27,6 +27,7 @@
 /* Begin PBXFileReference section */
 		439007FAB52648A8CC5D7295 /* Pods-MyPlaces.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyPlaces.release.xcconfig"; path = "Target Support Files/Pods-MyPlaces/Pods-MyPlaces.release.xcconfig"; sourceTree = "<group>"; };
 		590D5CAE261B672D00E1598C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		5922C96D2695B74200C90BA0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5951354B258B362600402433 /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 		595AD0CA2584C7CE008F378E /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		595AD0CD2584C7CE008F378E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 		595AD0C12584C7CE008F378E = {
 			isa = PBXGroup;
 			children = (
+				5922C96D2695B74200C90BA0 /* README.md */,
 				590D5CAE261B672D00E1598C /* .gitignore */,
 				595AD0CC2584C7CE008F378E /* MyPlaces */,
 				595AD0CB2584C7CE008F378E /* Products */,
